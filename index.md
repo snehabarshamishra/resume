@@ -4,7 +4,12 @@ Based in Bangalore, you can reach me at sneha.mishra31@gmail.com
 
 ## **EMPLOYMENT**	
 
-### **ARM Embedded Technologies, Bangalore	Jul 2015 - Present**
+### **Qubole	Jul 2017 - Present**
+Member of Technical Staff
+-	Working in Partner Integrations Team as developer for SDKs for the QDS (Qubole Data Services) platform in Python.
+-	Working on JDBC and ODBC drivers as interface to various Qubole supported data engines and external data analytics tools like KNIME, Looker etc.
+
+### **ARM Embedded Technologies, Bangalore	Jul 2015 - Jul 2017**
 Software Engineer
 -	Designing automation framework for CPU and Physical Design Validation.
 -	Hands-on with Load Sharing Framework, RabbitMQ (Messaging Queue) protocol, REST APIs.
