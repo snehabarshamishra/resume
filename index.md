@@ -4,22 +4,22 @@ Based in Bangalore, you can reach me at sneha.mishra31@gmail.com
 
 ## **EMPLOYMENT**	
 
-### **Cisco Systems	March 2017 - Present**
+### **Cisco March 2017 - Present**
 Software Engineer
 -	Working as developer for platform as a service to enable intent based networking.
 
-### **Qubole	Jul 2017 - Feb 2018**
+### **Qubole Jul 2017 - Feb 2018**
 Member of Technical Staff
 -	Developed SDKs for the QDS (Qubole Data Services) platform in Python.
 -	Write JDBC and ODBC drivers for interfacing Qubole's Hadoop, Presto and Spark engines to external data analytics tools(KNIME, Looker and Tableau).
 
-### **ARM Embedded Technologies, Bangalore	Jul 2015 - Jul 2017**
+### **ARM Embedded Technologies Jul 2015 - Jul 2017**
 Software Engineer
 -	Coding software to manage and scale resource intensive jobs(CPU and Pysical Validation) on IBM's Load Sharing Framework.
   using RabbitMQ as Messaging Queue and Redis as database.
 -	Code ORM for internal use which can support database operations on SQLite and Redis storage.
 
-### **Samsung Research Institute, Delhi					Jul 2013 – Jul 2015**
+### **Samsung Research Institute Jul 2013 – Jul 2015**
 Software Engineer
 -	Porting Wi-Fi Device Driver on Samsung Digital Television.
 -	Develop an automation tool in C to verify Wi-Fi and IOT functionalities. It was successfully used for Samsung Wi-Fi driver release.
