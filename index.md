@@ -4,7 +4,11 @@ Based in Bangalore, you can reach me at sneha.mishra31@gmail.com
 
 ## **EMPLOYMENT**	
 
-### **Qubole	Jul 2017 - Present**
+### **Cisco Systems	March 2017 - Present**
+Software Engineer
+-	Working on core Platform to enable intent based networking.
+
+### **Qubole	Jul 2017 - Feb 2018**
 Member of Technical Staff
 -	Working in Partner Integrations Team as developer for SDKs for the QDS (Qubole Data Services) platform in Python.
 -	Working on JDBC and ODBC drivers as interface to various Qubole supported data engines and external data analytics tools like KNIME, Looker etc.
