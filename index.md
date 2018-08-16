@@ -34,10 +34,10 @@ B. Tech in Computer Science Engineering (CSE)
 
 ## **TECHNICAL SKILLS**		
 
-- Software/Tools                        :	Kubernetes, GIT, SVN
-- Programming                           :	Python, Go, C++, Scala, Java
-- Databases                             :	SQLite, Redis, Mongodb
-- Miscellaneous(exp. while working)     : Kafka, RabbitMq, Spark, Hadoop
+- Programming       :	Python, Scala, Java, C++
+- Software/Tools    :	Kubernetes, GIT, SVN
+- Databases         :	SQLite, Redis, Mongodb
+- Miscellaneous     : Kafka, RabbitMq, Spark, Hadoop
 
 ## **ACHIEVEMENTS AND POSITIONS OF RESPONSIBILITY**
 
